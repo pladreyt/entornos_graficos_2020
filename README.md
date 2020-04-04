@@ -5,5 +5,5 @@
 **Actualizado:** 04-04-2020
 
 **Contenido:**
-- 1 - Practica HTML.
-- 1 - Practica complementaria HTML.
+- 1 - Introduccion a HTML.
+- 1 - Introduccion a HTML ( Complementaria ).
