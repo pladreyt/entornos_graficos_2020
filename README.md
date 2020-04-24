@@ -7,7 +7,7 @@
 **Contenido:**
 - [x] 1. Introducción a HTML.
 - [x] 1. Introducción a HTML ( Complementaria ).
-- [ ] 2. Práctica CSS.
+- [x] 2. CSS.
 - [ ] 3. Desarrollo WEB.
 - [ ] 4. PHP.
 - [ ] 5. PHP.
