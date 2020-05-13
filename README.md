@@ -2,13 +2,13 @@
 
 ## 41540 - Pablo Ladreyt.
 
-**Actualizado:** 24-04-2020
+**Actualizado:** 13-05-2020
 
 **Contenido:**
 - [x] 1. Introducción a HTML.
 - [x] 1. Introducción a HTML ( Complementaria ).
 - [x] 2. CSS.
-- [ ] 3. Desarrollo WEB.
+- [x] 3. Desarrollo WEB.
 - [ ] 4. PHP.
 - [ ] 5. PHP.
 - [ ] 6. PHP y bases de datos.
