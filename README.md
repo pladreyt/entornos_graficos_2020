@@ -9,7 +9,7 @@
 - [x] 1. Introducción a HTML ( Complementaria ).
 - [x] 2. CSS.
 - [x] 3. Desarrollo WEB.
-- [ ] 4. PHP.
+- [x] 4. PHP.
 - [ ] 5. PHP.
 - [ ] 6. PHP y bases de datos.
 - [ ] 7. PHP: Sesiones y cookies.
