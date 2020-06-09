@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <title>Formulario Alta Ciudades</title>
+</head>
+
+<body>
+    <FORM action="alta.php" method="POST" name="ciudades_alta">
+        <TABLE style="width: 250px">
+            <tr>
+                <th colspan="2">Alta Ciudad</th>
+            </tr>
+            <tr>
+                <td> Ciudad:</td>
+                <td> <input style="width:100px" autocomplete="off" type="text" name="ciudad" maxlength="45"> </td>
+            </tr>
+            <tr>
+                <td> Pais:</td>
+                <td> <input style="width:100px" autocomplete="off" type="text" name="pais" maxlength="45"> </td>
+            </tr>
+            <tr>
+                <td> Habitantes:</td>
+                <td> <input style="width:100px" autocomplete="off" type="number" name="habitantes" min="1" max="99999999"> </td>
+            </tr>
+            <tr>
+                <td> Superficie:</td>
+                <td> <input style="width:100px" step="0.01" autocomplete="off" type="number" name="superficie" min="1" max="99999999" > </td>
+            </tr>
+            <tr>
+                <td> Tiene metro: </td>
+                <td> <input type="hidden" value="0" name="tiene_metro"/>
+                     <input type="checkbox" value="1" name="tiene_metro"/> </td>
+            </tr>
+            <tr>
+                <td colspan="2"> <input type="submit" name="Submit" value="Agregar ciudad">
+                    <p><a href="menu.html">Volver al menu</a></p>
+                </td>
+            </tr>
+        </TABLE>
+    </FORM>
+</body>
+
+</html>
