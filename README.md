@@ -2,7 +2,7 @@
 
 ## 41540 - Pablo Ladreyt.
 
-**Actualizado:** 09-06-2020
+**Actualizado:** 10-06-2020
 
 **Contenido:**
 - [x] 1. Introducción a HTML.
