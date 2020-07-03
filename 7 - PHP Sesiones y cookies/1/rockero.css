@@ -1,0 +1,7 @@
+body {
+    background-image: url("pappo.jpg");
+    height: 100vh;
+    background-size: cover;
+    color: pink;
+    font: 12pt lucida;
+}
