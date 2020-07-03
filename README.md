@@ -2,7 +2,7 @@
 
 ## 41540 - Pablo Ladreyt.
 
-**Actualizado:** 10-06-2020
+**Actualizado:** 03-07-2020
 
 **Contenido:**
 - [x] 1. Introducción a HTML.
@@ -12,5 +12,5 @@
 - [x] 4. PHP.
 - [x] 5. PHP.
 - [x] 6. PHP y bases de datos.
-- [ ] 7. PHP: Sesiones y cookies.
-- [ ] 8. Accesibilidad y Usabilidad.
+- [x] 7. PHP: Sesiones y cookies.
+- [x] 8. Accesibilidad y Usabilidad.
